@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibmemory.a  CMakeFiles/libmemory.dir/memory.o
+/usr/bin/ranlib liblibmemory.a

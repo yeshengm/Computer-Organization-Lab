@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Yesheng/Desktop/organization lab/lab/lab6/testForTop_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testForTop" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/testForTop/CLOCK_IN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CLOCK_IN</obj_property>
+      <obj_property name="ObjectShortName">CLOCK_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/RESET" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/mainRegsiter/regFile[1]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[1,31:0]</obj_property>
+      <obj_property name="ObjectShortName">regFile[1,31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/mainRegsiter/regFile[2]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[2,31:0]</obj_property>
+      <obj_property name="ObjectShortName">regFile[2,31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/mainRegsiter/regFile[3]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[3,31:0]</obj_property>
+      <obj_property name="ObjectShortName">regFile[3,31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/PC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/IF_ID_Inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IF_ID_Inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_Inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/ID_EX_Stall" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ID_EX_Stall</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_Stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/EX_MEM_Stall" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">EX_MEM_Stall</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_Stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/EX_AddRes" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">EX_AddRes[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_AddRes[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/IF_BeqPc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IF_BeqPc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_BeqPc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/MEM_PCSrc" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MEM_PCSrc</obj_property>
+      <obj_property name="ObjectShortName">MEM_PCSrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testForTop/uut/EX_MEM_AddRes" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">EX_MEM_AddRes[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_AddRes[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

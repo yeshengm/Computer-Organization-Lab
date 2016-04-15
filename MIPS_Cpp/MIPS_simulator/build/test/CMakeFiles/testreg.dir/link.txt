@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g    CMakeFiles/testreg.dir/reg.o  -o ../../obj/testreg  -L/home/tdt/TA/project2/build/src  -L/home/tdt/TA/project2/test/lib -rdynamic ../src/liblibreg.a ../../test/lib/libgtest.a -lpthread ../src/liblibcomponent.a 

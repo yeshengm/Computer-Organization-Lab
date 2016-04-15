@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tdt/TA/project2/src/component.hpp
+map
+-
+string
+-
+functional
+-
+
+/home/tdt/TA/project2/src/env.hpp
+string
+-
+
+/home/tdt/TA/project2/src/other.cpp
+other.hpp
+/home/tdt/TA/project2/src/other.hpp
+env.hpp
+/home/tdt/TA/project2/src/env.hpp
+
+/home/tdt/TA/project2/src/other.hpp
+component.hpp
+/home/tdt/TA/project2/src/component.hpp
+

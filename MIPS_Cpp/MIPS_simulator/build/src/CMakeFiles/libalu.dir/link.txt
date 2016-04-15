@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibalu.a  CMakeFiles/libalu.dir/alu.o
+/usr/bin/ranlib liblibalu.a

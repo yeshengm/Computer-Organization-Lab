@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibcpu.a  CMakeFiles/libcpu.dir/cpu.o
+/usr/bin/ranlib liblibcpu.a

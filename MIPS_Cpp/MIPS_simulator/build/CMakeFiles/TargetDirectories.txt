@@ -1,0 +1,10 @@
+/home/tdt/TA/project2/build/src/CMakeFiles/libalu.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libalucontrol.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libcomponent.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libcpu.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libctr.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libmemory.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libother.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libpc.dir
+/home/tdt/TA/project2/build/src/CMakeFiles/libreg.dir
+/home/tdt/TA/project2/build/test/CMakeFiles/test.dir

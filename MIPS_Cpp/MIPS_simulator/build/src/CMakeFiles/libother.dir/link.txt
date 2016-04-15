@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibother.a  CMakeFiles/libother.dir/other.o
+/usr/bin/ranlib liblibother.a

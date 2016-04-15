@@ -1,0 +1,12 @@
+﻿生成启动时间为 2013/12/19 0:12:51。
+     1>项目“E:\project2\buildmsvc\ZERO_CHECK.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Checking Build System
+         CMake is re-running because K:/project/ta/project2/buildmsvc/CMakeFiles/generate.stamp dependency file is missing.
+     1>CUSTOMBUILD : CMake error : The source directory "K:/project/ta/project2" does not appear to contain CMakeLists.txt.
+         Specify --help for usage, or press the help button on the CMake GUI.
+     1>已完成生成项目“E:\project2\buildmsvc\ZERO_CHECK.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.10

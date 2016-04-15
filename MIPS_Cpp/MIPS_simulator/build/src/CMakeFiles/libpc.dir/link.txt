@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibpc.a  CMakeFiles/libpc.dir/pc.o
+/usr/bin/ranlib liblibpc.a

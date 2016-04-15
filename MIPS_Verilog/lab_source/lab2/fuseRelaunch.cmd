@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Yesheng/Desktop/organization lab/lab/lab2/countert_isim_beh.exe" -prj "C:/Users/Yesheng/Desktop/organization lab/lab/lab2/countert_beh.prj" "work.countert" "work.glbl" 

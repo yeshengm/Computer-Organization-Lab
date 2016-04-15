@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibcomponent.a  CMakeFiles/libcomponent.dir/component.o
+/usr/bin/ranlib liblibcomponent.a

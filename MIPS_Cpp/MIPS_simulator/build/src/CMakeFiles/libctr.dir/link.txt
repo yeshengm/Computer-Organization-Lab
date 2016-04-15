@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibctr.a  CMakeFiles/libctr.dir/ctr.o
+/usr/bin/ranlib liblibctr.a

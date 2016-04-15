@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g    CMakeFiles/testpc.dir/pc.o  -o ../../obj/testpc  -L/home/tdt/TA/project2/build/src  -L/home/tdt/TA/project2/test/lib -rdynamic ../src/liblibpc.a ../../test/lib/libgtest.a -lpthread ../src/liblibcomponent.a 

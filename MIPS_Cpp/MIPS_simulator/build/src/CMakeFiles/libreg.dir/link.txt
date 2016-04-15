@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibreg.a  CMakeFiles/libreg.dir/reg.o
+/usr/bin/ranlib liblibreg.a

@@ -1,0 +1,23 @@
+﻿生成启动时间为 2015/12/31 13:19:40。
+     1>项目“C:\Users\Yesheng\Desktop\EI 209\project2\buildmsvc\src\libreg.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /I..\..\../src /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"libreg.dir\Debug\\" /Fd"libreg.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt  /EHsc";"-std=c++11 -g ..\..\src\reg.cpp
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+     1>cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+     1>cl : 命令行 warning D9002: 忽略未知选项“-g”
+         reg.cpp
+       Lib:
+         D:\Program Files\VC\bin\Lib.exe /OUT:"..\..\buildmsvc\src\Debug\libreg.lib" /NOLOGO libreg.dir\Debug\reg.obj
+         libreg.vcxproj -> C:\Users\Yesheng\Desktop\EI 209\project2\buildmsvc\src\..\..\buildmsvc\src\Debug\libreg.lib
+     1>已完成生成项目“C:\Users\Yesheng\Desktop\EI 209\project2\buildmsvc\src\libreg.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.87

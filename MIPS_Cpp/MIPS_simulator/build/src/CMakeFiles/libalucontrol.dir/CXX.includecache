@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tdt/TA/project2/src/alucontrol.cpp
+alucontrol.hpp
+/home/tdt/TA/project2/src/alucontrol.hpp
+env.hpp
+/home/tdt/TA/project2/src/env.hpp
+
+/home/tdt/TA/project2/src/alucontrol.hpp
+component.hpp
+/home/tdt/TA/project2/src/component.hpp
+
+/home/tdt/TA/project2/src/component.hpp
+map
+-
+string
+-
+functional
+-
+
+/home/tdt/TA/project2/src/env.hpp
+string
+-
+

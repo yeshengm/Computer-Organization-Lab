@@ -1,0 +1,12 @@
+K:/project/ta/project2/buildmsvc/CMakeFiles/ALL_BUILD.dir
+K:/project/ta/project2/buildmsvc/CMakeFiles/ZERO_CHECK.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libalu.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libalucontrol.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libcomponent.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libcpu.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libctr.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libmemory.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libother.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libpc.dir
+K:/project/ta/project2/buildmsvc/src/CMakeFiles/libreg.dir
+K:/project/ta/project2/buildmsvc/test/CMakeFiles/test.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g    CMakeFiles/mips.dir/main.o  -o ../../obj/mips -rdynamic liblibcomponent.a liblibmemory.a liblibreg.a liblibalu.a liblibalucontrol.a liblibpc.a liblibctr.a liblibother.a liblibcpu.a 

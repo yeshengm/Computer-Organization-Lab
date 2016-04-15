@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g    CMakeFiles/testmemory.dir/memory.o  -o ../../obj/testmemory  -L/home/tdt/TA/project2/build/src  -L/home/tdt/TA/project2/test/lib -rdynamic ../src/liblibmemory.a ../../test/lib/libgtest.a -lpthread ../src/liblibcomponent.a 
